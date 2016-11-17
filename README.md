@@ -101,3 +101,4 @@
 ### [System.Drawing Namespace](https://msdn.microsoft.com/en-us/library/system.drawing(v=vs.110).aspx)
 ### [GDI+ .NET Color & HatchStyle Chart](https://drewnoakes.com/snippets/GdiColorChart/)
 
+![](https://github.com/believemesall/LAB-10/blob/master/imgs/1.JPG)
